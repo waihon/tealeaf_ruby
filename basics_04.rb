@@ -1,0 +1,5 @@
+movies_years = [1977, 1994, 2003, 2004]
+puts movies_years[0]
+puts movies_years[1]
+puts movies_years[2]
+puts movies_years[3]
