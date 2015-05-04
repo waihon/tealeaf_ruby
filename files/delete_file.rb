@@ -1,11 +1,12 @@
 def file_exist(filename)
-  file = File.open(filename, "r")
-  unless file.nil?
+  #file = File.open(filename, "r")
+  #unless file.nil?
+  if File.exists?(filename)
     puts "#{filename} exists"
   else
     puts "#{filename} does not exist"
   end
-  file.close
+  #file.close
 end
 
 FILENAME1 = "dummy_file1.txt"

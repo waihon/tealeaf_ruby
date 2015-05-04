@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</dc:rights>
+<dc:date>2015-05-02T09:08:12+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://linux.slashdot.org/story/15/05/02/0334255/unnoticed-for-years-malware-turned-linux-servers-into-spamming-machines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/02/0330233/seafloor-sensors-record-possible-eruption-of-underwater-volcano?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/02/0053211/humans-dominating-poker-super-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/05/01/235248/want-30-job-offers-a-month-its-not-as-great-as-you-think?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/01/2256206/android-and-ios-app-porting-will-not-be-available-at-windows-10-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/01/2240255/judge-tosses-united-airlines-lawsuit-over-hidden-city-tickets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/01/2115230/space-radiation-may-alter-astronauts-neurons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://developers.slashdot.org/story/15/05/01/2046222/microsoft-releases-visual-studio-code-preview-for-linux-os-x-and-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/01/2040226/scientists-have-paper-on-gender-bias-rejected-because-theyre-both-women?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/05/01/1938222/gamerefs-hardware-solution-to-cheating-in-esports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/05/01/1931232/debian-gnuhurd-2015-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/01/1929200/new-test-supports-nasas-controversial-em-drive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/01/1758254/climatologist-speaks-on-the-effects-of-geoengineering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/01/1754238/patent-issued-covering-phone-notifications-of-delivery-time-and-invoice-quantity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/01/1623204/american-psychological-association-hit-with-new-torture-allegations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://linux.slashdot.org/story/15/05/02/0334255/unnoticed-for-years-malware-turned-linux-servers-into-spamming-machines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Unnoticed For Years, Malware Turned Linux Servers Into Spamming Machines</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/M2sXqtxx_5w/unnoticed-for-years-malware-turned-linux-servers-into-spamming-machines</link>
+<description>An anonymous reader writes: For over 5 years, and perhaps even longer, servers around the world running Linux and FreeBSD operating systems have been targeted by an individual or group that compromised them via a backdoor Trojan, then made them send out spam, ESET researchers have found. What's more, it seems that the spammers are connected with a software company called Yellsoft, which sells DirectMailer, a "system for automated e-mail distribution" that allows users to send out anonymous email in bulk.
+
+Here's the white paper in which the researchers explain the exploit.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Unnoticed+For+Years%2C+Malware+Turned+Linux+Servers+Into+Spamming+Machines%3A+http%3A%2F%2Fbit.ly%2F1dBX5sx"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Flinux.slashdot.org%2Fstory%2F15%2F05%2F02%2F0334255%2Funnoticed-for-years-malware-turned-linux-servers-into-spamming-machines%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://linux.slashdot.org/story/15/05/02/0334255/unnoticed-for-years-malware-turned-linux-servers-into-spamming-machines?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://linux.slashdot.org/story/15/05/02/0334255/unnoticed-for-years-malware-turned-linux-servers-into-spamming-machines?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7352191&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/M2sXqtxx_5w" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-02T07:42:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>just-where-you-least-expect-it</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,26,14,11,6,1,0</slash:hit_parade>
+<feedburner:origLink>http://linux.slashdot.org/story/15/05/02/0334255/unnoticed-for-years-malware-turned-linux-servers-into-spamming-machines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/02/0330233/seafloor-sensors-record-possible-eruption-of-underwater-volcano?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Seafloor Sensors Record Possible Eruption of Underwater Volcano</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Pd685R1wQNI/seafloor-sensors-record-possible-eruption-of-underwater-volcano</link>
+<description>vinces99 writes: Thanks to high-tech instruments installed last summer by the University of Washington to bring the deep sea online, what appears to be an eruption of Axial Volcano on April 23 was observed in real time by scientists on shore. "It was an astonishing experience to see the changes taking place 300 miles away with no one anywhere nearby, and the data flowed back to land at the speed of light through the fiber-optic cable ... in milliseconds," said John Delaney, a UW professor of oceanography who led the installation of the instruments as part of a larger effort sponsored by the National Science Foundation. Delaney organized a workshop on campus in mid-April at which marine scientists discussed how this high-tech observatory would support their science. Then, just before midnight on April 23 until about noon the next day, the seismic activity went off the charts. The gradually increasing rumblings of the mountain were documented over recent weeks by William Wilcock, a UW marine geophysicist who studies such systems. During last week's event, the earthquakes increased from hundreds per day to thousands, and the center of the volcanic crater dropped by about 6 feet in 12 hours. "The only way that could have happened was to have the magma move from beneath the caldera to some other location," Delaney said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Seafloor+Sensors+Record+Possible+Eruption+of+Underwater+Volcano%3A+http%3A%2F%2Fbit.ly%2F1I084qQ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F02%2F0330233%2Fseafloor-sensors-record-possible-eruption-of-underwater-volcano%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/02/0330233/seafloor-sensors-record-possible-eruption-of-underwater-volcano?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/02/0330233/seafloor-sensors-record-possible-eruption-of-underwater-volcano?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7352181&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Pd685R1wQNI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-02T04:50:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>good-time-to-be-shoreside</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>12</slash:comments>
+<slash:hit_parade>12,11,6,4,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/02/0330233/seafloor-sensors-record-possible-eruption-of-underwater-volcano?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/02/0053211/humans-dominating-poker-super-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Humans Dominating Poker Super Computer</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fhGr89B37yI/humans-dominating-poker-super-computer</link>
+<description>New submitter IoTdude writes: The Claudico super computer uses an algorithm to account for gargantuan amounts of complexity by representing the number of possible Heads-Up No-limit Texas Hold'em decisions. Claudico also updates its strategy as it goes along, but its basic approach to the game involves getting into every hand by calling bets. And it's not working out so far. Halfway through the competition, the four human pros had a cumulative lead of 626,892 chips. Though much could change in the week remaining, a lead of around 600,000 chips is considered statistically significant.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Humans+Dominating+Poker+Super+Computer%3A+http%3A%2F%2Fbit.ly%2F1ArCIDg"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F02%2F0053211%2Fhumans-dominating-poker-super-computer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/02/0053211/humans-dominating-poker-super-computer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/02/0053211/humans-dominating-poker-super-computer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7351781&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fhGr89B37yI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-02T02:10:00+00:00</dc:date>
+<dc:subject>stats</dc:subject>
+<slash:department>maybe-it's-a-ringer</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>54</slash:comments>
+<slash:hit_parade>54,52,39,37,12,7,2</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/02/0053211/humans-dominating-poker-super-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/05/01/235248/want-30-job-offers-a-month-its-not-as-great-as-you-think?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Want 30 Job Offers a Month? It's Not As Great As You Think</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ndeDuzo0YAw/want-30-job-offers-a-month-its-not-as-great-as-you-think</link>
+<description>An anonymous reader writes: Software engineers suffer from a problem that most other industries wish they had: too much demand. There's a great story at the Atlantic entitled Imagine Getting 30 Job Offers a Month (It Isn't as Awesome as You Might Think). This is a problem that many engineers deal with: place your resume on a job board and proceed to be spammed multiple times per day for jobs in places that you would never go to (URGENT REQUIREMENT IN DETROIT!!!!!, etc). Google "recruiter spam" and there are many tales of engineers being overwhelmed by this. One engineer, fed up by a lack of a recruiting spam blackhole, set up NoRecruitingSpam.com with directions on how to stop this modern tech scourge.
+
+Have you been the victim of recruiting spam?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Want+30+Job+Offers+a+Month%3F+It's+Not+As+Great+As+You+Think%3A+http%3A%2F%2Fbit.ly%2F1PcZvJA"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F05%2F01%2F235248%2Fwant-30-job-offers-a-month-its-not-as-great-as-you-think%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/05/01/235248/want-30-job-offers-a-month-its-not-as-great-as-you-think?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/05/01/235248/want-30-job-offers-a-month-its-not-as-great-as-you-think?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7351575&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ndeDuzo0YAw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-02T00:02:00+00:00</dc:date>
+<dc:subject>spam</dc:subject>
+<slash:department>zippy-the-pinhead-is-always-hiring</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>134</slash:comments>
+<slash:hit_parade>134,133,89,70,21,4,0</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/05/01/235248/want-30-job-offers-a-month-its-not-as-great-as-you-think?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/01/2256206/android-and-ios-app-porting-will-not-be-available-at-windows-10-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Android and iOS App Porting Will Not Be Available At Windows 10 Launch</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IigNn1iB15U/android-and-ios-app-porting-will-not-be-available-at-windows-10-launch</link>
+<description>An anonymous reader writes: Arguably the biggest news out of Microsoft's Build 2015 conference was that developers will be able to bring Web apps, Windows desktop apps (Win32), as well as Android and iOS mobile apps to the Windows Store. Yet each of these work differently, and there are a lot of nuances, so we talked to Todd Brix, general manager of Windows apps and store, to get some more detail. First and foremost, upon Windows 10's launch, developers will only be able to bring Web apps to the Windows Store. The Win32, Android, and iOS app toolkits will not be ready in time. That said, with Microsoft's Windows as a service strategy, they will arrive as part of later updates&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Android+and+iOS+App+Porting+Will+Not+Be+Available+At+Windows+10+Launch%3A+http%3A%2F%2Fbit.ly%2F1ONaX3X"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F01%2F2256206%2Fandroid-and-ios-app-porting-will-not-be-available-at-windows-10-launch%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/01/2256206/android-and-ios-app-porting-will-not-be-available-at-windows-10-launch?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/01/2256206/android-and-ios-app-porting-will-not-be-available-at-windows-10-launch?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7351541&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/IigNn1iB15U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-01T23:22:00+00:00</dc:date>
+<dc:subject>windows</dc:subject>
+<slash:department>all-things-in-time</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,32,13,9,2,1,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/01/2256206/android-and-ios-app-porting-will-not-be-available-at-windows-10-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/01/2240255/judge-tosses-united-airlines-lawsuit-over-hidden-city-tickets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Judge Tosses United Airlines Lawsuit Over 'Hidden City' Tickets</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7Sn_o5kt6r8/judge-tosses-united-airlines-lawsuit-over-hidden-city-tickets</link>
+<description>An anonymous reader writes: United Airlines lost a legal round in its effort to stop a website that helps people find 'hidden city' ticket pairs. The airline, along with online travel site Orbitz, sued New York-based Skiplagged.com and its founder, Aktarer Zaman, in November seeking an injunction to stop the site from sending users to Orbitz to purchase United tickets. A federal judge ruled Thursday that Illinois isn't the proper venue for the carrier's claims.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Judge+Tosses+United+Airlines+Lawsuit+Over+'Hidden+City'+Tickets%3A+http%3A%2F%2Fbit.ly%2F1ECDL7p"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F01%2F2240255%2Fjudge-tosses-united-airlines-lawsuit-over-hidden-city-tickets%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/01/2240255/judge-tosses-united-airlines-lawsuit-over-hidden-city-tickets?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/01/2240255/judge-tosses-united-airlines-lawsuit-over-hidden-city-tickets?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7351467&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7Sn_o5kt6r8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-01T22:41:00+00:00</dc:date>
+<dc:subject>court</dc:subject>
+<slash:department>you-had-to-go-there</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>94</slash:comments>
+<slash:hit_parade>94,94,67,58,24,14,7</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/01/2240255/judge-tosses-united-airlines-lawsuit-over-hidden-city-tickets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/01/2115230/space-radiation-may-alter-astronauts-neurons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Space Radiation May Alter Astronauts' Neurons</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AVkjAzuT6v0/space-radiation-may-alter-astronauts-neurons</link>
+<description>sciencehabit writes: NASA hopes to send the first round-trip, manned spaceflight to Mars by the 2030s. If the mission succeeds, astronauts could spend several years potentially being bombarded with cosmic rays&amp;mdash;high-energy particles launched across space by supernovae and other galactic explosions. Now, a study in mice suggests these particles could alter the shape of neurons, impairing astronauts' memories and other cognitive abilities. In the prefrontal cortex, a brain region associated with executive function, a range of high-level cognitive tasks such as reasoning, short-term memory, and problem-solving, neurons had 30% to 40% fewer branches, called dendrites, which receive electrical input from other cells.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Space+Radiation+May+Alter+Astronauts'+Neurons%3A+http%3A%2F%2Fbit.ly%2F1HZdDpx"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F01%2F2115230%2Fspace-radiation-may-alter-astronauts-neurons%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/01/2115230/space-radiation-may-alter-astronauts-neurons?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/01/2115230/space-radiation-may-alter-astronauts-neurons?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7351119&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/AVkjAzuT6v0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-01T22:02:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>i-saw-that-episode-of-star-trek</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,44,31,26,6,3,1</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/01/2115230/space-radiation-may-alter-astronauts-neurons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://developers.slashdot.org/story/15/05/01/2046222/microsoft-releases-visual-studio-code-preview-for-linux-os-x-and-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Releases Visual Studio Code Preview For Linux, OS X, and Windows</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/idV4RJh0n1g/microsoft-releases-visual-studio-code-preview-for-linux-os-x-and-windows</link>
+<description>ClockEndGooner writes: Microsoft is still extending its efforts into cross platform development with the release of a preview edition of Visual Studio Code, "a lightweight cross-platform code editor for writing modern web and cloud applications that will run on OS X, Linux and Windows." Derived from its Monaco editor for Visual Studio Online, the initial release includes rich code assistance and naavigation for JavaScript, TypeScript, Node.js, ASP.NET 5, C# and many others.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Releases+Visual+Studio+Code+Preview+For+Linux%2C+OS+X%2C+and+Windows%3A+http%3A%2F%2Fbit.ly%2F1KAPhlE"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F15%2F05%2F01%2F2046222%2Fmicrosoft-releases-visual-studio-code-preview-for-linux-os-x-and-windows%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://developers.slashdot.org/story/15/05/01/2046222/microsoft-releases-visual-studio-code-preview-for-linux-os-x-and-windows?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/15/05/01/2046222/microsoft-releases-visual-studio-code-preview-for-linux-os-x-and-windows?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7351069&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/idV4RJh0n1g" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-01T21:41:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>of-proof-and-pudding</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,39,26,26,14,8,6</slash:hit_parade>
+<feedburner:origLink>http://developers.slashdot.org/story/15/05/01/2046222/microsoft-releases-visual-studio-code-preview-for-linux-os-x-and-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/01/2040226/scientists-have-paper-on-gender-bias-rejected-because-theyre-both-women?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Scientists Have Paper On Gender Bias Rejected Because They're Both Women</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0sRh1eBUiQY/scientists-have-paper-on-gender-bias-rejected-because-theyre-both-women</link>
+<description>ferrisoxide.com writes: A paper co-authored by researcher fellow Dr. Fiona Ingleby and evolutionary biologist Dr. Megan Head &amp;mdash; on how gender differences affect the experiences that PhD students have when moving into post-doctoral work &amp;mdash; was rejected by peer-reviewed PLoS Onebecause they didn't ask a man for help.
+ 
+A (male) peer reviewer for the journal suggested that the scientists find male co-authors, to prevent "ideologically biased assumptions." The same reviewer also provided his own ironically biased advice, when explaining that women may have fewer articles published because men's papers "are indeed of a better quality, on average," "just as, on average, male doctoral students can probably run a mile race a bit faster."
+PLoS One has apologized, saying, "We have formally removed the review from the record, and have sent the manuscript out to a new editor for re-review. We have also asked the Academic Editor who handled the manuscript to step down from the Editorial Board and we have removed the referee from our reviewer database."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Have+Paper+On+Gender+Bias+Rejected+Because+They're+Both+Women%3A+http%3A%2F%2Fbit.ly%2F1I3HX3Y"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F01%2F2040226%2Fscientists-have-paper-on-gender-bias-rejected-because-theyre-both-women%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/01/2040226/scientists-have-paper-on-gender-bias-rejected-because-theyre-both-women?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/01/2040226/scientists-have-paper-on-gender-bias-rejected-because-theyre-both-women?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7351063&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0sRh1eBUiQY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-01T21:20:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>social-media-sites-surrender</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>181</slash:comments>
+<slash:hit_parade>181,177,117,86,29,21,10</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/01/2040226/scientists-have-paper-on-gender-bias-rejected-because-theyre-both-women?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/05/01/1938222/gamerefs-hardware-solution-to-cheating-in-esports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Game:ref's Hardware Solution To Cheating In eSports</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/RMLD7V0F9BI/gamerefs-hardware-solution-to-cheating-in-esports</link>
+<description>An anonymous reader writes: Cheating is a real problem in today's most popular online multiplayer games, and not just on public servers. Some of the world's top Counter-Strike: Global Offensive players have been banned by Valve's Anti-Cheat System (VACS) in recent months too, bringing a nascent eSport into disrepute. But one gamer is taking a different approach, creating a hardware solution called Game:ref to tackle the problem. Simple in design &amp;mdash; Game:ref, which the creator hopes to fund on Kickstarter soon, compares on screen movement with your inputs &amp;mdash; but powerful in potential, the device has the potential to catch out illegal macro users both on and offline. It's already attracting interest in the top flight too.
+ "I've had some people from [eSports teams] Complexity, SK Gaming, and a few high-profile streamers reach out. I would say everyone seems onboard with making online PC gaming a more enjoyable experience," says inventor David Titarenco, a former Counter-Strike pro himself. "After all, most cheating on consoles has been eradicated, why should PC be so far behind?"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Game%3Aref's+Hardware+Solution+To+Cheating+In+eSports%3A+http%3A%2F%2Fbit.ly%2F1I3EVwB"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F05%2F01%2F1938222%2Fgamerefs-hardware-solution-to-cheating-in-esports%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/05/01/1938222/gamerefs-hardware-solution-to-cheating-in-esports?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/05/01/1938222/gamerefs-hardware-solution-to-cheating-in-esports?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7350955&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/RMLD7V0F9BI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-01T21:00:00+00:00</dc:date>
+<dc:subject>games</dc:subject>
+<slash:department>anti-cheating-baseball-bats</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>59</slash:comments>
+<slash:hit_parade>59,57,33,28,7,2,0</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/05/01/1938222/gamerefs-hardware-solution-to-cheating-in-esports?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/05/01/1931232/debian-gnuhurd-2015-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Debian GNU/Hurd 2015 Released</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/K0Tl-PRTdrE/debian-gnuhurd-2015-released</link>
+<description>An anonymous reader sends this announcement from the debian-hurd mailing list: It is with huge pleasure that the Debian GNU/Hurd team announces the release of Debian GNU/Hurd 2015. This is a snapshot of Debian "sid" at the time of the stable Debian "jessie" release (April 2015), so it is mostly based on the same sources. It is not an official Debian release, but it is an official Debian GNU/Hurd port release. The installation ISO images can be downloaded from Debian Ports in the usual three Debian flavors: NETINST, CD, or DVD. Besides the friendly Debian installer, a pre-installed disk image is also available there, making it even easier to try Debian GNU/Hurd. The easiest way to run it is inside a VM such as qemu.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Debian+GNU%2FHurd+2015+Released%3A+http%3A%2F%2Fbit.ly%2F1E2wQRq"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F05%2F01%2F1931232%2Fdebian-gnuhurd-2015-released%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/05/01/1931232/debian-gnuhurd-2015-released?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/05/01/1931232/debian-gnuhurd-2015-released?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7350931&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/K0Tl-PRTdrE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-01T20:38:00+00:00</dc:date>
+<dc:subject>gnu</dc:subject>
+<slash:department>onward-and-upward</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>42</slash:comments>
+<slash:hit_parade>42,36,23,17,4,4,2</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/05/01/1931232/debian-gnuhurd-2015-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/01/1929200/new-test-supports-nasas-controversial-em-drive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Test Supports NASA's Controversial EM Drive</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Lr92vCn_Yt4/new-test-supports-nasas-controversial-em-drive</link>
+<description>An anonymous reader writes: Last year, NASA's advanced propulsion research wing made headlines by announcing the successful test of a physics-defying electromagnetic drive, or EM drive. Now, this futuristic engine, which could in theory propel objects to near-relativistic speeds, has been shown to work inside a space-like vacuum. NASA Eagleworks made the announcement quite unassumingly via NASASpaceFlight.com. The EM drive is controversial in that it appears to violate conventional physics and the law of conservation of momentum; the engine, invented by British scientist Roger Sawyer, converts electric power to thrust without the need for any propellant by bouncing microwaves within a closed container. So, with no expulsion of propellant, there&amp;rsquo;s nothing to balance the change in the spacecraft&amp;rsquo;s momentum during acceleration.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Test+Supports+NASA's+Controversial+EM+Drive%3A+http%3A%2F%2Fbit.ly%2F1zkLTKt"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F01%2F1929200%2Fnew-test-supports-nasas-controversial-em-drive%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/01/1929200/new-test-supports-nasas-controversial-em-drive?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/01/1929200/new-test-supports-nasas-controversial-em-drive?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7350927&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Lr92vCn_Yt4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-01T19:55:00+00:00</dc:date>
+<dc:subject>nasa</dc:subject>
+<slash:department>time-to-argue</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>344</slash:comments>
+<slash:hit_parade>344,343,253,202,48,31,17</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/01/1929200/new-test-supports-nasas-controversial-em-drive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/01/1758254/climatologist-speaks-on-the-effects-of-geoengineering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Climatologist Speaks On the Effects of Geoengineering</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/E3e_u_TvTwA/climatologist-speaks-on-the-effects-of-geoengineering</link>
+<description>Lasrick writes: In this interview with Rutgers University climatologist Alan Robock, he discusses geoengineering and nuclear winter. Robock believes that geoengineering is not the solution to global warming because of its many risks and unknowns. He notes that some of the technology that would be required to implement geoengineering has not been developed and that many socio-political questions would have to be resolved before it could be put into practice. To start with, the world would have to reach agreement on a target temperature and on what entity should do the implementing. Robock's biggest fear with regard to geoengineering is that disputes over these questions could escalate into nuclear war which in turn could cause nuclear winter, producing global famine among other effects. Fascinating, wide-ranging interview with one of the world's top climatologists.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Climatologist+Speaks+On+the+Effects+of+Geoengineering%3A+http%3A%2F%2Fbit.ly%2F1QUvuC7"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F01%2F1758254%2Fclimatologist-speaks-on-the-effects-of-geoengineering%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/01/1758254/climatologist-speaks-on-the-effects-of-geoengineering?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/01/1758254/climatologist-speaks-on-the-effects-of-geoengineering?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7350731&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/E3e_u_TvTwA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-01T19:09:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>make-it-rain-bad-coffee-in-seattle</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>89</slash:comments>
+<slash:hit_parade>89,88,73,61,21,6,3</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/01/1758254/climatologist-speaks-on-the-effects-of-geoengineering?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/01/1754238/patent-issued-covering-phone-notifications-of-delivery-time-and-invoice-quantity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Patent Issued Covering Phone Notifications of Delivery Time and Invoice Quantity</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fmBNwA9gYJg/patent-issued-covering-phone-notifications-of-delivery-time-and-invoice-quantity</link>
+<description>eldavojohn writes: The staggering ingenuity of the U.S. Patent system has again been showcased by the EFF's analysis of recent patents. This week's patent and follow-up patent cover the futuristic innovative idea that when you order something, you can update your order and add additional amounts to your order while it's being processed. But wait, it gets even more innovative! You may one day be able to even to notify when you would like it delivered &amp;mdash; on your phone! I know, you're busy wiping all that brain matter off your screen as your head seems to have exploded. Well, it turns out that inventor and patent holder Scott Horstemeyer (aka Eclipse IP, LLC of Delray Beach, FL) found no shortage of targets to go after with his new patents. It appears Tiger Fitness (and every other online retailer) was sending notices to customers about shipments. Did I mention Horstemeyer is a lawyer too? But not just a regular lawyer, a "SUPER lawyer" from the same firm that patented social networking in 2007, sued Uber for using location finding technologies in 2013 and sued Overstock.com as well as a small time shoe seller for using shipping notifications in 2014.
+A related article at Vox makes this case: "The primary problem with the patent system is, well, the patent system. The system makes it too easy to get broad, vague patents, and the litigation process is tilted too far toward plaintiffs. But because so many big companies make so much money off of this system, few in Congress are willing to consider broader reforms."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Patent+Issued+Covering+Phone+Notifications+of+Delivery+Time+and+Invoice+Quantity%3A+http%3A%2F%2Fbit.ly%2F1DHVQwQ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F01%2F1754238%2Fpatent-issued-covering-phone-notifications-of-delivery-time-and-invoice-quantity%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/01/1754238/patent-issued-covering-phone-notifications-of-delivery-time-and-invoice-quantity?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/01/1754238/patent-issued-covering-phone-notifications-of-delivery-time-and-invoice-quantity?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7350725&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fmBNwA9gYJg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-01T18:25:00+00:00</dc:date>
+<dc:subject>patents</dc:subject>
+<slash:department>i-should-patent-the-rubber-stamp</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>58</slash:comments>
+<slash:hit_parade>58,58,50,39,8,5,3</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/01/1754238/patent-issued-covering-phone-notifications-of-delivery-time-and-invoice-quantity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/01/1623204/american-psychological-association-hit-with-new-torture-allegations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>American Psychological Association Hit With New Torture Allegations</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Z07NIdAGZxE/american-psychological-association-hit-with-new-torture-allegations</link>
+<description>sciencehabit writes: Did the American Psychological Association (APA) collude with the Central Intelligence Agency (CIA) to enable the torture of detainees in the War on Terror? The answer won't be known until June, when an independent investigation is due to conclude. But at least one thing was made clear in a report from an independent group of psychologists based on e-mail exchanges between APA and CIA officials from 2003 to 2006: The world's largest professional organization for psychologists has maintained a surprisingly cozy relationship with the defense and intelligence community.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=American+Psychological+Association+Hit+With+New+Torture+Allegations%3A+http%3A%2F%2Fbit.ly%2F1c2ZZ9h"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F01%2F1623204%2Famerican-psychological-association-hit-with-new-torture-allegations%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/01/1623204/american-psychological-association-hit-with-new-torture-allegations?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/01/1623204/american-psychological-association-hit-with-new-torture-allegations?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7350419&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Z07NIdAGZxE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-01T17:43:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>protip-don't-torture-people</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>78</slash:comments>
+<slash:hit_parade>78,74,46,38,13,10,6</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/01/1623204/american-psychological-association-hit-with-new-torture-allegations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
